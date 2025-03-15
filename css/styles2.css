@@ -1,0 +1,69 @@
+* {
+
+}
+
+body {
+    background-color:rgb(169, 169, 169);
+}
+
+div{
+   align-items: center;
+
+}
+
+
+
+div p {
+    
+}
+
+.btn-1 {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-decoration: none;
+    font-size: 1.1rem;
+    border-radius: 12px;
+    font-family: sans-serif;
+
+
+}
+
+.nav{
+    position: absolute;
+
+}
+
+.header {
+    margin: auto;
+    width: 500px;
+}
+
+.nav li a {
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+}
+
+.nav li a:hover {
+    background-color: #434343;
+}
+.nav > li{
+    float: left;
+
+}
+
+.nav li ul {
+    display: none;
+    position: absolute;
+    min-width: 140px;
+
+}
+
+.nav li:hover > ul {
+    display: block;
+
+}

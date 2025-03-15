@@ -1,0 +1,33 @@
+* {
+
+}
+
+body {
+    background-color:black;
+}
+
+div {
+    background: white;
+    color:black;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 7px 13px 37px #ededed;
+    border-radius: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.button {
+    background: black;
+    color: white;
+    width: 15%;
+padding: 10px;
+border: white;
+border-radius: 12px;
+text-decoration: none;
+margin-bottom: 20px;
+
+}
